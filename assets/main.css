@@ -1,0 +1,12 @@
+.closed{
+    position: absolute;
+    color: black;
+    padding: 10px 0;
+    inset: 0 50px 0 0;
+    transition: .3s;
+
+}
+
+.closed{
+    transform: translateX(50px);
+}
